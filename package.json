@@ -1,8 +1,15 @@
 {
   "name": "react-public-ip",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Get public IP address in React",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThangTKT/react-public-ip.git"
+  },
   "keywords": [
     "ip",
     "ipv4",
@@ -12,6 +19,10 @@
     "external",
     "own"
   ],
-  "author": "Thang TKT",
-  "license": "MIT"
+  "author": "ThangTKT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThangTKT/react-public-ip/issues"
+  },
+  "homepage": "https://github.com/ThangTKT/react-public-ip#readme"
 }
